@@ -6,6 +6,36 @@ I really like playing games and practicing sports
 
 I'm learning with the programming course made by [Favelaware](https://favelaware.animahub.com.br/home)
 
+---
+### Languages
+<img 
+  align="left"
+  alt="GitHub"
+  title="GitHub"
+  width="50px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  />
+  <img
+    align="left"
+    alt="Java Script"
+    title="Java Script"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
+    <img
+      align="left"
+      alt="Html"
+      title="Html"
+      width="50px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" 
+      />
+      <img
+        align="left"
+        alt="Css"
+        title="Css"
+        width="50px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
+        />
 
 <!--
 **Isaacfk22/isaacfk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
