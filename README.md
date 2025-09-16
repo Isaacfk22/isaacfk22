@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, i'm Isaac Ferreira
+
+I'm 14 years old, i live in Belo Horizonte, Brazil and i am currently on 9th grade
+I really like playing games and practicing sports
+
 
 <!--
 **Isaacfk22/isaacfk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
