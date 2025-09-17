@@ -4,7 +4,7 @@ I'm 14 years old, i live in Belo Horizonte, Brazil and i am currently on 9th gra
 
 I really like playing games and practicing sports
 
-I'm learning with the programming course made by [Favelaware](https://favelaware.animahub.com.br/home)
+I'm learning with the programming course made by [FavelaWare](https://favelaware.animahub.com.br/home)
 
 
 ---
